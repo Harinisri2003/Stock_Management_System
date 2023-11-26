@@ -1,0 +1,17 @@
+.foot{
+    align-items: center;
+    bottom: 0;
+    top: 100;
+    background-color: rgb(239, 227, 237);
+    height: 100px;
+}
+.hr{
+    margin-top: 20px;
+}
+.connect img{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+   margin-top: 20px;
+   
+}
